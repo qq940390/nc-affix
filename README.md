@@ -37,3 +37,6 @@ $('#tx').ncAffix({
     }
 })
 ```
+
+DEMO地址：
+https://qq940390.github.io/nc-affix/demo/
