@@ -1,0 +1,20 @@
+{
+    "name": "jquery-affix",
+    "version": "1.0.0",
+    "description": "jQuery-affix plugins",
+    "main": "src/main.js",
+    "scripts": {
+        "build": "rollup --config"
+    },
+    "keywords": [
+        "affix"
+    ],
+    "author": "wujinhai (940390@qq.com)",
+    "license": "MIT",
+    "devDependencies": {
+        "@rollup/plugin-babel": "^6.0.4",
+        "@rollup/plugin-commonjs": "^25.0.7",
+        "@rollup/plugin-terser": "^0.4.4",
+        "rollup": "^4.12.0"
+    }
+}
